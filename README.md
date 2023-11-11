@@ -1,7 +1,6 @@
 ### Hi there!😀
 
-<hr>
-
+---
 ### ⌘ Tech Stacks
 
 <p align='leading'>
@@ -9,8 +8,8 @@
   <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
   
-  <br>
-  
+---
+
 ### 🛠 Tools
  <p align='leading'>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
