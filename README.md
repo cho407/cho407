@@ -24,7 +24,7 @@
 ---
 
 ### 📱 Projects
-- [Grain - A social networking app that digitally captures the analog essence of film photography. ](https://github.com/apple/swift-evolution/pull/2170)
+- [Grain - A social networking app that digitally captures the analog essence of film photography. ](https://github.com/APP-iOS1/finalproject-grain)
 
 ---
 
