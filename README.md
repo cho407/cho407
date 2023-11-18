@@ -38,7 +38,7 @@
 ### 🖥️ Additional Links
 - [Medium](https://medium.com/@parfume407)
 - [Blog](https://cho407.github.io)
-- [Linkedin](www.linkedin.com/in/hyunggu-cho-0570b225b)
+- [Linkedin](https://linkedin.com/in/hyunggu-cho-0570b225b)
 
 
 
