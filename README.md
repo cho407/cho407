@@ -31,7 +31,7 @@
 ### 📓 Recent Articles
 - [Swift Looping: Navigating the Nuances of for-in, while, and repeat-while](https://medium.com/@parfume407/swift-looping-navigating-the-nuances-of-for-in-while-and-repeat-while-56dc59f333a5)
 - [첫 iOS앱 Grain App Store 출시 후기](https://cho407.github.io/app/AppStore-Deployment/)
-- [The Smartest Ways to Utilize ChatGPT: Building a ChatGPT Plugin](https://medium.com/@parfume407/the-smartest-ways-to-utilize-chatgpt-building-a-chatgpt-plugin-a19c8b359e79)
+- [Enhancing Swift Code with Macros: A quick Guide to Streamlined Data Management with Observable Macros](https://medium.com/@parfume407/enhancing-swift-code-with-macros-a-quick-guide-to-streamlined-data-management-with-observable-494936417b32)
 
 ---
 
