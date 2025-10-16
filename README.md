@@ -24,6 +24,7 @@
 ---
 
 ### 📱 Projects
+- [CaptionMate - Auto Captioning Tool Powered by Whisper AI](https://github.com/cho407/CaptionMate)
 - [Grain - A social networking app that digitally captures the analog essence of film photography. ](https://github.com/APP-iOS1/finalproject-grain)
 
 ---
